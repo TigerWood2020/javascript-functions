@@ -1,0 +1,12 @@
+seed 
+same
+contains
+printCell
+corners
+printCells
+getNeighborsOf
+getLivingNeighbors
+willBeAlive
+calculateNext, 
+iterate
+main
